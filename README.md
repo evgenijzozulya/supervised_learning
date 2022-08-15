@@ -10,6 +10,7 @@
 
 - LogisticRegression
 - RandomForestClassifier
+- DecisionTreeClassifier
 
 # Результаты
 
